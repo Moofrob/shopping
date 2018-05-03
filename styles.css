@@ -1,0 +1,12 @@
+.body{
+    background-color: rgb(255, 255, 255);   
+}
+
+.header {
+    background: transparent;
+    height: 50%;
+    margin: 0 auto 0 auto;
+    position: relative;
+    text-align: center;
+    width: 100%;
+}
